@@ -1,0 +1,5 @@
+model,cv_macro_f1_mean,cv_macro_f1_std,cv_macro_f1_min,cv_macro_f1_max,cv_runtime_seconds
+Logistic Regression,0.712,0.0244,0.6872,0.7451,7.97
+SGD Classifier,0.6348,0.0464,0.5694,0.6712,7.0
+Linear SVM,0.6327,0.0467,0.5667,0.6696,8.01
+Multinomial Naive Bayes,0.5578,0.0073,0.5525,0.568,6.85

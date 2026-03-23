@@ -1,0 +1,10 @@
+model,class,precision,recall,f1_score,support
+Logistic Regression,negative,0.8202,0.8146,0.8174,1753
+Logistic Regression,neutral,0.3168,0.4569,0.3742,545
+Logistic Regression,positive,0.8609,0.7493,0.8012,1767
+SGD Classifier,negative,0.8079,0.8254,0.8166,1753
+SGD Classifier,neutral,0.3405,0.3505,0.3454,545
+SGD Classifier,positive,0.8336,0.8081,0.8207,1767
+Linear SVM,negative,0.7999,0.8369,0.818,1753
+Linear SVM,neutral,0.3517,0.3156,0.3327,545
+Linear SVM,positive,0.8249,0.8132,0.819,1767

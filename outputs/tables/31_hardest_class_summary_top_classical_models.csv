@@ -1,0 +1,4 @@
+class,mean_f1_across_top_models
+neutral,0.35076666666666667
+positive,0.8136333333333333
+negative,0.8173333333333334

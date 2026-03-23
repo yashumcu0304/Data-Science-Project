@@ -1,0 +1,22 @@
+model,error_taxonomy,count
+Linear SVM,repeated_template_like_review,300
+Linear SVM,ambiguous_or_weak_neutral_signal,243
+Linear SVM,muted_polarity_or_low_signal,194
+Linear SVM,general_semantic_confusion,134
+Linear SVM,very_short_review,70
+Linear SVM,mixed_sentiment,46
+Linear SVM,possible_sarcasm_or_irony,2
+Logistic Regression,repeated_template_like_review,339
+Logistic Regression,muted_polarity_or_low_signal,318
+Logistic Regression,ambiguous_or_weak_neutral_signal,192
+Logistic Regression,general_semantic_confusion,107
+Logistic Regression,very_short_review,76
+Logistic Regression,mixed_sentiment,31
+Logistic Regression,possible_sarcasm_or_irony,1
+SGD Classifier,repeated_template_like_review,314
+SGD Classifier,ambiguous_or_weak_neutral_signal,231
+SGD Classifier,muted_polarity_or_low_signal,213
+SGD Classifier,general_semantic_confusion,125
+SGD Classifier,very_short_review,71
+SGD Classifier,mixed_sentiment,43
+SGD Classifier,possible_sarcasm_or_irony,2

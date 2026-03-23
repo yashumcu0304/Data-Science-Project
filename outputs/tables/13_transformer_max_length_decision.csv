@@ -1,0 +1,2 @@
+checkpoint,chosen_max_len,decision_rule,raw_95th_percentile_value
+distilbert-base-uncased,96,Approximate 95th-percentile token-length coverage,86

@@ -1,0 +1,10 @@
+split,sentiment,count,percentage_within_split
+train,negative,8969,35.59
+train,neutral,3693,14.66
+train,positive,12537,49.75
+validation,negative,1789,43.83
+validation,neutral,571,13.99
+validation,positive,1722,42.19
+test,negative,1753,43.12
+test,neutral,545,13.41
+test,positive,1767,43.47

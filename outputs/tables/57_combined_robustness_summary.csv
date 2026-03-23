@@ -1,0 +1,13 @@
+model,subgroup,n_examples,accuracy,macro_f1,weighted_f1
+DistilBERT Fine-Tuning,all_test_examples,4065,0.7501,0.6799,0.7661
+Logistic Regression,all_test_examples,4065,0.7383,0.6643,0.7509
+DistilBERT Fine-Tuning,duplicate_text_examples,1476,0.7961,0.7064,0.812
+Logistic Regression,duplicate_text_examples,1476,0.7703,0.6653,0.7849
+DistilBERT Fine-Tuning,long_reviews_more_than_15_words,1966,0.7772,0.6915,0.7876
+Logistic Regression,long_reviews_more_than_15_words,1966,0.7477,0.6472,0.7545
+Logistic Regression,medium_reviews_4_to_15_words,1600,0.7269,0.6569,0.7432
+DistilBERT Fine-Tuning,medium_reviews_4_to_15_words,1600,0.7225,0.6494,0.7429
+DistilBERT Fine-Tuning,non_duplicate_text_examples,2589,0.7238,0.6644,0.7398
+Logistic Regression,non_duplicate_text_examples,2589,0.72,0.6601,0.7316
+Logistic Regression,short_reviews_3_words_or_less,499,0.7375,0.6557,0.7514
+DistilBERT Fine-Tuning,short_reviews_3_words_or_less,499,0.7315,0.6461,0.7482

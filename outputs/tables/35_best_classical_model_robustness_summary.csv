@@ -1,0 +1,7 @@
+model,subgroup,n_examples,accuracy,macro_f1,weighted_f1
+Logistic Regression,all_test_examples,4065,0.7383,0.6643,0.7509
+Logistic Regression,non_duplicate_text_examples,2589,0.72,0.6601,0.7316
+Logistic Regression,long_reviews_more_than_15_words,1966,0.7477,0.6472,0.7545
+Logistic Regression,medium_reviews_4_to_15_words,1600,0.7269,0.6569,0.7432
+Logistic Regression,duplicate_text_examples,1476,0.7703,0.6653,0.7849
+Logistic Regression,short_reviews_3_words_or_less,499,0.7375,0.6557,0.7514

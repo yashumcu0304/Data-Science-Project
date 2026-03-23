@@ -1,0 +1,8 @@
+diagnostic_item,value
+Best overall model on held-out test set,DistilBERT Fine-Tuning
+Best overall macro F1,0.6799
+Hardest class across top classical models,neutral
+Mean F1 of hardest class,0.3508
+Most common structured error type,repeated_template_like_review
+Primary evaluation metric,Macro F1
+Transformer checkpoint used,distilbert-base-uncased

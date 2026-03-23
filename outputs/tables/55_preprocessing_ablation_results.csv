@@ -1,0 +1,5 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments
+raw_text_unigram_bigram,0.7506,0.6729,0.6745,0.6709,0.7673,0.7506,0.7564,14.18,Validation ablation using Logistic Regression.
+clean_text_unigram_bigram,0.7494,0.6684,0.6692,0.6666,0.7636,0.7494,0.7543,14.76,Validation ablation using Logistic Regression.
+clean_text_unigram,0.7288,0.6594,0.6628,0.6557,0.7614,0.7288,0.7415,10.18,Validation ablation using Logistic Regression.
+clean_text_char_3_5grams,0.7281,0.6596,0.6623,0.6551,0.7635,0.7281,0.742,18.7,Validation ablation using Logistic Regression.

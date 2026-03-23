@@ -1,0 +1,6 @@
+finding,why_it_matters
+A strong classical baseline remained highly competitive on this task.,Shows that simpler sparse-text models can remain highly effective.
+The neutral class was the most difficult class to classify consistently.,Indicates that ambiguous or weakly polar language remains challenging.
+Grouped splitting reduced duplicate-text leakage risk.,Improves trustworthiness of held-out evaluation.
+DistilBERT provided a context-aware comparison under the same split policy.,Makes the classical-versus-transformer comparison more methodologically fair.
+Performance should be interpreted in light of rating-derived labels rather than manual sentiment labels.,Clarifies the scope and limitations of the prediction task.

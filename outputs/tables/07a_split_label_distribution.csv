@@ -1,0 +1,10 @@
+split,sentiment,count
+test,negative,1753
+test,neutral,545
+test,positive,1767
+train,negative,8969
+train,neutral,3693
+train,positive,12537
+validation,negative,1789
+validation,neutral,571
+validation,positive,1722

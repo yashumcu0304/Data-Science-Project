@@ -1,0 +1,4 @@
+rank,model
+1,Logistic Regression
+2,SGD Classifier
+3,Linear SVM

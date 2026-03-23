@@ -1,0 +1,5 @@
+model,number_of_hyperparameters_tuned,tuning_strategy
+Logistic Regression,5,RandomizedSearchCV with macro F1
+Multinomial Naive Bayes,5,RandomizedSearchCV with macro F1
+Linear SVM,5,RandomizedSearchCV with macro F1
+SGD Classifier,6,RandomizedSearchCV with macro F1

@@ -1,0 +1,4 @@
+observation,why_it_matters_for_modelling
+Review length varies noticeably across examples.,Suggests some sentiment classes may be easier or harder depending on text richness.
+Very short reviews are common in the dataset.,Helps explain neutral-class ambiguity and classification difficulty.
+Repeated cleaned reviews are present and non-trivial.,Supports grouped splitting to reduce duplicate-text leakage.

@@ -1,0 +1,10 @@
+completed_component,why_it_matters
+Robust data loading and schema validation,Improves reproducibility and reduces fragile file-handling assumptions.
+Rating-derived target creation and filtering,Makes the task definition precise and academically defensible.
+Duplicate-aware grouped splitting,Reduces optimistic evaluation from exact duplicate-text leakage.
+"Classical model benchmarking, tuning, and held-out evaluation","Supports fair model comparison using train, validation, and test splits correctly."
+Confidence intervals and per-class analysis,Moves beyond one-number reporting into deeper performance interpretation.
+Interpretability and structured error analysis,Explains what the models learned and where they still fail.
+Consistent DistilBERT fine-tuning and held-out testing,Makes the transformer section more methodologically consistent.
+Unified final comparison and report-ready summary tables,Produces outputs that are easier to use in the final report and presentation.
+Ablation and robustness studies,"Shows that the project investigated why results changed, not just which model won."

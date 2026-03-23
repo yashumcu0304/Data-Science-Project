@@ -1,0 +1,2 @@
+selected_best_classical_model,selection_basis
+Logistic Regression,Highest validation macro F1 among tuned classical models

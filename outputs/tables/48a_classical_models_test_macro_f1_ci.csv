@@ -1,0 +1,5 @@
+bootstrap_macro_f1_mean,bootstrap_macro_f1_ci_lower,bootstrap_macro_f1_ci_upper,model
+0.6639,0.6488,0.6771,Logistic Regression
+0.6332,0.6157,0.6483,Multinomial Naive Bayes
+0.6562,0.6402,0.6736,Linear SVM
+0.6607,0.6435,0.6771,SGD Classifier

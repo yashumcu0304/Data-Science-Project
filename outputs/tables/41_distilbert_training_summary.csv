@@ -1,0 +1,2 @@
+best_epoch,best_val_macro_f1,total_training_time_seconds,epochs_completed,trainable_parameters,layers_unfrozen
+3,0.6952,81.63,3,14768643,2

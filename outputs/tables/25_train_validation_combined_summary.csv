@@ -1,0 +1,5 @@
+dataset,rows,role
+train,25199,Initial fitting and cross-validation
+validation,4082,Model selection and comparison
+combined_train_validation,29281,Final classical refit before held-out testing
+test,4065,Untouched final evaluation set

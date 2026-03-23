@@ -1,0 +1,4 @@
+split,rows,max_len,checkpoint
+train,25199,96,distilbert-base-uncased
+validation,4082,96,distilbert-base-uncased
+test,4065,96,distilbert-base-uncased

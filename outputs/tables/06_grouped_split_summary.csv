@@ -1,0 +1,4 @@
+split,rows,pct_of_total,unique_cleaned_reviews
+train,25199,75.57,15171
+validation,4082,12.24,3252
+test,4065,12.19,3252

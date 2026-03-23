@@ -1,0 +1,4 @@
+model,interpretability_level,practical_note
+Logistic Regression,High,Strong linear baseline with interpretable coefficients.
+Multinomial Naive Bayes,Moderate,Fast lexical-probability baseline.
+Linear SVM,Moderate to High,Strong text baseline with good performance and efficiency.

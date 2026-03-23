@@ -1,0 +1,2 @@
+model,macro_f1_mean_across_seeds,macro_f1_std_across_seeds,n_seeds_tested
+Logistic Regression,0.6564,0.0,3

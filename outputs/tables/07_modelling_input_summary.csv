@@ -1,0 +1,4 @@
+split,rows,intended_use
+train,25199,model fitting and cross-validation
+validation,4082,model selection / early stopping checks
+test,4065,final held-out evaluation only

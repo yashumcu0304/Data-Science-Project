@@ -1,0 +1,10 @@
+parameter,value
+checkpoint,distilbert-base-uncased
+max_len,96
+batch_size,16
+epochs,3
+learning_rate,2e-05
+weight_decay,0.01
+early_stopping_patience,1
+num_workers,2
+pin_memory,True

@@ -1,0 +1,12 @@
+column,dtype,missing_count,missing_pct,unique_count
+latitude,float64,660,1.98,39
+longitude,float64,660,1.98,39
+reviewer_id,int64,0,0.0,33396
+review,object,0,0.0,22285
+review_raw,object,0,0.0,22282
+rating_count,object,0,0.0,51
+store_address,object,0,0.0,40
+review_time,object,0,0.0,39
+rating,object,0,0.0,5
+store_name,object,0,0.0,2
+category,object,0,0.0,1

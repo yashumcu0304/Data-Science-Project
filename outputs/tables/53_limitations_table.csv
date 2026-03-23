@@ -1,0 +1,6 @@
+limitation,implication
+Sentiment labels are derived from ratings rather than manual annotation.,Text sentiment and star rating may not always align perfectly.
+"Exact duplicate leakage was controlled, but near-duplicate semantic overlap may still exist.",Some hidden similarity may remain even after grouped splitting.
+Heuristic error taxonomy is useful but not a substitute for full manual annotation.,Error categories should be interpreted as structured approximations.
+Location and time fields may be incomplete or noisy depending on the original dataset.,Geographic or temporal findings should be interpreted cautiously.
+Transformer training quality is still constrained by dataset size and compute budget.,The transformer result may not represent the absolute best possible fine-tuned model.

@@ -1,0 +1,6 @@
+rank,model,model_family,macro_f1,weighted_f1,runtime_seconds,interpretability,practical_note
+1,DistilBERT Fine-Tuning,Transformer,0.6799,0.7661,2.92,Lower,"Context-aware, computationally heavier, less interpretable."
+2,Logistic Regression,Classical,0.6643,0.7509,14.89,High,"Strong balance of performance, interpretability, and efficiency."
+3,SGD Classifier,Classical,0.6609,0.7552,0.8,Unknown,
+4,Linear SVM,Classical,0.6566,0.7534,1.85,Moderate to High,Strong sparse-text baseline with good efficiency.
+5,Multinomial Naive Bayes,Classical,0.6327,0.7432,1.43,Moderate,"Fast lexical baseline, weaker on nuanced sentiment."

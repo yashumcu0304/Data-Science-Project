@@ -1,0 +1,5 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments
+Logistic Regression (Test),0.7383,0.666,0.6736,0.6643,0.7704,0.7383,0.7509,14.89,"Refit on train+validation, evaluated on held-out test set."
+SGD Classifier (Test),0.7542,0.6607,0.6614,0.6609,0.7564,0.7542,0.7552,0.8,"Refit on train+validation, evaluated on held-out test set."
+Linear SVM (Test),0.7567,0.6588,0.6552,0.6566,0.7507,0.7567,0.7534,1.85,"Refit on train+validation, evaluated on held-out test set."
+Multinomial Naive Bayes (Test),0.7658,0.6769,0.6319,0.6327,0.7409,0.7658,0.7432,1.43,"Refit on train+validation, evaluated on held-out test set."

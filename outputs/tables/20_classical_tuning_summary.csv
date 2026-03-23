@@ -1,0 +1,5 @@
+model,best_cv_macro_f1,tuning_runtime_seconds,best_params
+Logistic Regression,0.7142,19.58,"{'tfidf__ngram_range': (1, 1), 'tfidf__min_df': 2, 'tfidf__max_features': 15000, 'tfidf__max_df': 0.85, 'model__C': 1.0}"
+Linear SVM,0.6401,12.49,"{'tfidf__ngram_range': (1, 1), 'tfidf__min_df': 2, 'tfidf__max_features': 15000, 'tfidf__max_df': 0.85, 'model__C': 0.5}"
+SGD Classifier,0.6387,6.35,"{'tfidf__ngram_range': (1, 1), 'tfidf__min_df': 5, 'tfidf__max_features': 15000, 'tfidf__max_df': 0.85, 'model__loss': 'log_loss', 'model__alpha': 1e-05}"
+Multinomial Naive Bayes,0.6012,6.62,"{'tfidf__ngram_range': (1, 2), 'tfidf__min_df': 2, 'tfidf__max_features': 12000, 'tfidf__max_df': 0.9, 'model__alpha': 0.05}"

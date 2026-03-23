@@ -1,0 +1,4 @@
+model,misclassified_examples
+Logistic Regression,1064
+SGD Classifier,999
+Linear SVM,989

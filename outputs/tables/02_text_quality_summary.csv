@@ -1,0 +1,6 @@
+metric,value
+total_rows,33396
+missing_review_count,0
+empty_review_count,0
+missing_rating_count,0
+duplicate_raw_review_count,11114

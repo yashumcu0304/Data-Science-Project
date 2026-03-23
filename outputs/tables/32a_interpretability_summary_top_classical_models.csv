@@ -1,0 +1,10 @@
+model,class,n_terms,mean_abs_coefficient
+Linear SVM,negative,15,1.9615
+Linear SVM,neutral,15,1.8436
+Linear SVM,positive,15,1.6209
+Logistic Regression,negative,15,3.1548
+Logistic Regression,neutral,15,1.854
+Logistic Regression,positive,15,2.8094
+SGD Classifier,negative,15,5.62
+SGD Classifier,neutral,15,4.4011
+SGD Classifier,positive,15,4.7174

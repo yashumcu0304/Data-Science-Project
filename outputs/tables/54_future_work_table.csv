@@ -1,0 +1,6 @@
+future_work_direction,expected_benefit
+Add manual sentiment annotation for a subset of reviews.,Would improve label validity and task interpretation.
+Investigate near-duplicate detection beyond exact cleaned-text matching.,Would further strengthen evaluation robustness.
+Test text-plus-metadata models using review length and other auxiliary features.,Would test whether simple non-text signals add predictive value.
+Expand ablation studies for preprocessing and class weighting choices.,Would improve understanding of what truly drives performance gains.
+Explore stronger transformer variants or longer fine-tuning schedules under larger compute budgets.,Would provide a stronger upper-bound transformer benchmark.

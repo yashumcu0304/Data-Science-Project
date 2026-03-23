@@ -1,0 +1,3 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments
+Dummy Baseline (Validation),0.4219,0.1406,0.3333,0.1978,0.178,0.4219,0.2503,0.01,Majority-class reference baseline.
+Dummy Baseline (Test),0.4347,0.1449,0.3333,0.202,0.189,0.4347,0.2634,0.01,Reference baseline for comparison.

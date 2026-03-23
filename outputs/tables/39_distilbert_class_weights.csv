@@ -1,0 +1,4 @@
+class,count_in_train,loss_weight
+negative,8969,0.9365
+neutral,3693,2.2745
+positive,12537,0.67

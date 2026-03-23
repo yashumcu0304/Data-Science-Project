@@ -1,0 +1,4 @@
+path_label,path
+tables_directory,/content/outputs/tables
+figures_directory,/content/outputs/figures
+models_directory,/content/outputs/models

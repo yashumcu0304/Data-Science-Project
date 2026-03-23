@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments
+DistilBERT Fine-Tuning (Validation),0.7668,0.6965,0.7041,0.6952,0.7966,0.7668,0.7785,2.92,Best validation checkpoint after early stopping.

@@ -1,0 +1,5 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments,bootstrap_macro_f1_mean,bootstrap_macro_f1_ci_lower,bootstrap_macro_f1_ci_upper
+SGD Classifier,0.7818,0.683,0.6645,0.6681,0.7647,0.7818,0.7702,1.66,"Tuned model cloned, refit on train + validation, then evaluated once on held-out test set.",0.6681,0.6532,0.6844
+Logistic Regression,0.7383,0.666,0.6736,0.6643,0.7704,0.7383,0.7509,15.88,"Tuned model cloned, refit on train + validation, then evaluated once on held-out test set.",0.6639,0.6488,0.6771
+Linear SVM,0.7643,0.6665,0.6611,0.6629,0.7566,0.7643,0.7599,1.17,"Tuned model cloned, refit on train + validation, then evaluated once on held-out test set.",0.6626,0.6466,0.6795
+Multinomial Naive Bayes,0.7648,0.6697,0.6328,0.6338,0.7394,0.7648,0.7438,1.5,"Tuned model cloned, refit on train + validation, then evaluated once on held-out test set.",0.6344,0.618,0.6496

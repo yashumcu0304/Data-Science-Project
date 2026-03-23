@@ -1,0 +1,5 @@
+model,role_in_comparison,cv_strategy
+Logistic Regression,Strong linear baseline with interpretable coefficients.,StratifiedGroupKFold
+Multinomial Naive Bayes,Fast probabilistic lexical baseline.,StratifiedGroupKFold
+Linear SVM,Linear margin-based strong baseline for text.,StratifiedGroupKFold
+SGD Classifier,Fast large-scale linear classifier for sparse text.,StratifiedGroupKFold

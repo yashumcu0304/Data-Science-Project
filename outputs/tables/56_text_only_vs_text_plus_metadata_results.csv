@@ -1,0 +1,3 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,runtime_seconds,comments
+Text Only (Validation),0.7494,0.6684,0.6692,0.6666,0.7636,0.7494,0.7543,12.92,TF-IDF text features only.
+Text + Metadata (Validation),0.7501,0.6679,0.6682,0.6657,0.7642,0.7501,0.7548,22.27,TF-IDF text plus lightweight engineered metadata.

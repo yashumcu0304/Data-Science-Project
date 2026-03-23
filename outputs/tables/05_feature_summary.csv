@@ -1,0 +1,7 @@
+feature,purpose
+review_length_chars,EDA / interpretation
+review_length_words,EDA / interpretation
+question_count,EDA / tone analysis
+exclamation_count,EDA / tone analysis
+encoding_issue_flag,error analysis
+duplicate_text_flag,data quality / leakage audit

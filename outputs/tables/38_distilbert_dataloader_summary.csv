@@ -1,0 +1,4 @@
+loader,batch_size,num_batches,shuffle
+train_loader,16,1575,True
+val_loader,16,256,False
+test_loader,16,255,False

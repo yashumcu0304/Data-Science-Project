@@ -1,0 +1,4 @@
+metric,why_it_is_reported
+macro_f1,Treats all classes equally; important when neutral class is harder to classify.
+weighted_f1,Reflects overall performance accounting for class support differences.
+accuracy,Provides familiar summary metric but insufficient alone.
